@@ -1,0 +1,32 @@
+# UnaCloud
+# files to ignore by git
+
+# Ignore build output
+build/
+target/
+bin/
+
+# Ignore temporary files
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+pom.xml.releaseBackup
+
+# Ignore release/local properties
+release.properties
+local.properties
+
+# Ignore Eclipse files
+.settings/
+.recommenders/
+.loadpath
+.recommenders
+.externalToolBuilders/
+.classpath
+.project
+
+# TeXlipse plugin
+.texlipse
